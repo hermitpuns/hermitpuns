@@ -21,7 +21,7 @@
 ## Items
 |Name|Vanilla name|Images to apply|
 |----|------------|---------------|
-|Renstone **—**|Redstone **—**|Ren|
+|Re*n*stone **—**|Redstone **—**|Ren|
 |*Keral*is Lazuli|Lapis Lazuli|Keralis|
 |**—** *Joe Tills*|**—** Hoe|Joe Hills|
 |Bread*aph*|Bread|Zedaph|
@@ -47,10 +47,10 @@
 |Bane of *Architechs*|Bane of Arthropods|Architech Logo|
 |Libra*g*rian|Librarian|Grian|
 |Cle*o*ric|Cleric|Cleo|
-|*ExBerience* / X*B*|Experience / XP|XB|
+|*ExB*erience / X*B*|Experience / XP|XB|
 
 # ***DEBATE***
 |Name|Vanilla name|Image to apply|
 |----|------------|--------------|
-|**—** Prixisumarine/Prismariffs **—**|**—** Prismarine **—**|X/R|
-|Tangobsidian/Rendobsidian|Obsidian|Tango/Ren|
+|**—** Pri*xisu*marine/Prismari*ffs* **—**|**—** Prismarine **—**|X/R|
+|*Tang*obsidian/*Rendo*bsidian|Obsidian|Tango/Ren|
