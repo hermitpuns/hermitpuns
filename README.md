@@ -1,2 +1,3 @@
-# hermitpuns
-The HermitPuns pack.
+# HermitPuns
+The HermitPuns resourcepack.
+List of things in LIST.md.
