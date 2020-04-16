@@ -4,19 +4,19 @@
 ## Blocks
 |Name|Vanilla name|Image to apply|Done|
 |----|------------|--------------|----|
-|*Do*ctus|Cactus|Doc|<img src='checked.svg' alt='Checked box'>|
-|*Doc*orite|Diorite|Doc|<img src='checked.svg' alt='Checked box'>|
-|*Grian*ite|Granite|Grian|<img src='checked.svg' alt='Checked box'>|
-|*Grain* Bale|Hay Bale|Grian|<img src='checked.svg' alt='Checked box'>|
-|*Gria*nchanting Table|Enchanting Table|Grian|<img src='checked.svg' alt='Checked box'>|
+|*Do*ctus|Cactus|Doc|<img src='language.svg' alt='Checked box'>|
+|*Doc*orite|Diorite|Doc|<img src='language.svg' alt='Checked box'>|
+|*Grian*ite|Granite|Grian|<img src='language.svg' alt='Checked box'>|
+|*Grain* Bale|Hay Bale|Grian|<img src='language.svg' alt='Checked box'>|
+|*Gria*nchanting Table|Enchanting Table|Grian|<img src='language.svg' alt='Checked box'>|
 |Ac*scar*cia **—**|Acacia **—**|Scar|<img src='unchecked.svg' alt='Unchecked box'>|
-|T*ango*NT|TNT|Tango|<img src='checked.svg' alt='Checked box'>|
+|T*ango*NT|TNT|Tango|<img src='language.svg' alt='Checked box'>|
 |*RenDo*rk Oak **—**|Dark Oak **—**|Ren|<img src='unchecked.svg' alt='Unchecked box'>|
 |**—** Wool*symmetry*|**—** Wool|False|<img src='unchecked.svg' alt='Unchecked box'>|
 |**—** Ice*kall*|**—** Ice|Iskall|<img src='unchecked.svg' alt='Unchecked box'>|
-|*XB*Crafting Table|Crafting Table|XB|<img src='checked.svg' alt='Checked box'>|
+|*XB*Crafting Table|Crafting Table|XB|<img src='language.svg' alt='Checked box'>|
 |*Doc*poster|Composter|Doc|<img src='unchecked.svg' alt='Unchecked box'>|
-|Gri*an*stone|Grindstone|Grian|<img src='checked.svg' alt='Checked box'>|
+|Gri*an*stone|Grindstone|Grian|<img src='language.svg' alt='Checked box'>|
 |Mumbo *Jungle* **—**|Jungle **—**|Mumbo|<img src='unchecked.svg' alt='Unchecked box'>
 
 ## Items
@@ -25,15 +25,15 @@
 |Re*n*stone **—**|Redstone **—**|Ren|<img src='unchecked.svg' alt='Unchecked box'>|
 |*Keral*is Lazuli|Lapis Lazuli|Keralis|<img src='unchecked.svg' alt='Unchecked box'>|
 |**—** *Joe Tills*|**—** Hoe|Joe Hills|<img src='unchecked.svg' alt='Unchecked box'>|
-|Bread*aph*|Bread|Zedaph|<img src='checked.svg' alt='Checked box'>|
-|*Zedairy*|Milk|Zedaph|<img src='checked.svg' alt='Checked box'>|
-|Egg*zuma*|Egg|X|<img src='checked.svg' alt='Checked box'>|
+|Bread*aph*|Bread|Zedaph|<img src='language.svg' alt='Checked box'>|
+|*Zedairy*|Milk|Zedaph|<img src='language.svg' alt='Checked box'>|
+|Egg*zuma*|Egg|X|<img src='language.svg' alt='Checked box'>|
 |**—** Tinfoil*shovel*|**—** Shovel|TFC|<img src='unchecked.svg' alt='Unchecked box'>|
 |*Mum*bone|Bone|Mumbo|<img src='unchecked.svg' alt='Unchecked box'>|
-|Bamboo*Jumbo*|Bamboo|Mumbo|<img src='checked.svg' alt='Checked box'>|
-|*Iskallium* **—**|Slime **—**|Iskall|<img src='checked.svg' alt='Checked box'>|
-|Mel*umbo*|Melon|Mumbo|<img src='checked.svg' alt='Checked box'>|
-|*Grain*|Wheat|Grian|<img src='checked.svg' alt='Checked box'>|
+|Bamboo*Jumbo*|Bamboo|Mumbo|<img src='language.svg' alt='Checked box'>|
+|*Iskallium* **—**|Slime **—**|Iskall|<img src='language.svg' alt='Checked box'>|
+|Mel*umbo*|Melon|Mumbo|<img src='language.svg' alt='Checked box'>|
+|*Grain*|Wheat|Grian|<img src='language.svg' alt='Checked box'>|
 
 ## Entities
 |Name|Vanilla name|Image to apply|Done|
