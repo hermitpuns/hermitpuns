@@ -9,8 +9,8 @@
 |![Checked box](checked.svg)|Completely done|
 
 ## Blocks
-|Name|Vanilla name|Image to apply|Status|
-|----|------------|--------------|------|
+|Name|Vanilla name|HC Thing|Status|
+|----|------------|--------|------|
 |*Do*ctus|Cactus|Doc|![Box only checked on the left](texture.svg)|
 |*Doc*orite|Diorite|Doc|![Box only checked on the left](texture.svg)|
 |*Grian*ite|Granite|Grian|![Box only checked on the left](texture.svg)|
@@ -43,22 +43,22 @@
 |*Grain*|Wheat|Grian|![Box only checked on the left](texture.svg)|
 
 ## Entities
-|Name|Vanilla name|Image to apply|Status|
-|----|------------|--------------|------|
+|Name|Vanilla name|HC Thing|Status|
+|----|------------|--------|------|
 |Bee*DoubleO*|Bee|Bdubs|![Unchecked box](unchecked.svg)|
 |*Iskal*leton|Skeleton|Iskall|![Unchecked box](unchecked.svg)|
 |Zombie*Cleo*|Zombie|Cleo|![Unchecked box](unchecked.svg)|
 
 ## Misc (enchants, professions...)
-|Name|Vanilla name|Image to apply|Status|
-|----|------------|--------------|------|
+|Name|Vanilla name|HC Thing|Status|
+|----|------------|--------|------|
 |Bane of *Architechs*|Bane of Arthropods|Architech Logo|![Unchecked box](unchecked.svg)|
 |Libra*g*rian|Librarian|Grian|![Unchecked box](unchecked.svg)|
 |Cle*o*ric|Cleric|Cleo|![Unchecked box](unchecked.svg)|
 |*ExB*erience / X*B*|Experience / XP|XB|![Unchecked box](unchecked.svg)
 
 # ***DEBATE***
-|Name|Vanilla name|Image to apply|Decided on A|Decided on B|
-|----|------------|--------------|------------|------------|
+|Name|Vanilla name|HC Thing|Decided on A|Decided on B|
+|----|------------|--------|------------|------------|
 |**—** Pri*xisu*marine/Prismari*ffs* **—**|**—** Prismarine **—**|X/R|![Unchecked box](unchecked.svg)|![Unchecked box](unchecked.svg)|
 |*Tang*obsidian/*Rendo*bsidian|Obsidian|Tango/Ren|![Unchecked box](unchecked.svg)|![Unchecked box](unchecked.svg)|
