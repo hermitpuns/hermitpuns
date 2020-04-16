@@ -3,62 +3,62 @@
 ## Guide
 |Symbol|Meaning|
 |------|-------|
-|<img src='unchecked.svg' alt='Unchecked box'>|Not done|
-|<img src='texture.svg' alt='Left-checked box'>|Texture done, language missing|
-|<img src='language.svg' alt='Right-checked box'>|Language done, texture missing|
-|<img src='checked.svg' alt='Checked box'>|Done|
+|![Unchecked box](unchecked.svg)|Not done|
+|![Box only checked on the left](texture.svg)|Texture done, language missing|
+|![Box only checked on the right](language.svg)|Language done, texture missing|
+|![Checked box](checked.svg)|Completely done|
 
 ## Blocks
-|Name|Vanilla name|Image to apply|Done|
-|----|------------|--------------|----|
-|*Do*ctus|Cactus|Doc|<img src='texture.svg' alt='Left-checked box'>|
-|*Doc*orite|Diorite|Doc|<img src='texture.svg' alt='Left-checked box'>|
-|*Grian*ite|Granite|Grian|<img src='texture.svg' alt='Left-checked box'>|
-|*Grain* Bale|Hay Bale|Grian|<img src='texture.svg' alt='Left-checked box'>|
-|*Gria*nchanting Table|Enchanting Table|Grian|<img src='texture.svg' alt='Left-checked box'>|
-|Ac*scar*cia **—**|Acacia **—**|Scar|<img src='unchecked.svg' alt='Unchecked box'>|
-|T*ango*NT|TNT|Tango|<img src='texture.svg' alt='Left-checked box'>|
-|*RenDo*rk Oak **—**|Dark Oak **—**|Ren|<img src='unchecked.svg' alt='Unchecked box'>|
-|**—** Wool*symmetry*|**—** Wool|False|<img src='unchecked.svg' alt='Unchecked box'>|
-|**—** Ice*kall*|**—** Ice|Iskall|<img src='unchecked.svg' alt='Unchecked box'>|
-|*XB*Crafting Table|Crafting Table|XB|<img src='texture.svg' alt='Left-checked box'>|
-|*Doc*poster|Composter|Doc|<img src='unchecked.svg' alt='Unchecked box'>|
-|Gri*an*stone|Grindstone|Grian|<img src='texture.svg' alt='Left-checked box'>|
-|Mumbo *Jungle* **—**|Jungle **—**|Mumbo|<img src='unchecked.svg' alt='Unchecked box'>
+|Name|Vanilla name|Image to apply|Status|
+|----|------------|--------------|------|
+|*Do*ctus|Cactus|Doc|![Box only checked on the left](texture.svg)|
+|*Doc*orite|Diorite|Doc|![Box only checked on the left](texture.svg)|
+|*Grian*ite|Granite|Grian|![Box only checked on the left](texture.svg)|
+|*Grain* Bale|Hay Bale|Grian|![Box only checked on the left](texture.svg)|
+|*Gria*nchanting Table|Enchanting Table|Grian|![Box only checked on the left](texture.svg)|
+|Ac*scar*cia **—**|Acacia **—**|Scar|![Unchecked box](unchecked.svg)|
+|T*ango*NT|TNT|Tango|![Box only checked on the left](texture.svg)|
+|*RenDo*rk Oak **—**|Dark Oak **—**|Ren|![Unchecked box](unchecked.svg)|
+|**—** Wool*symmetry*|**—** Wool|False|![Unchecked box](unchecked.svg)|
+|**—** Ice*kall*|**—** Ice|Iskall|![Unchecked box](unchecked.svg)|
+|*XB*Crafting Table|Crafting Table|XB|![Box only checked on the left](texture.svg)|
+|*Doc*poster|Composter|Doc|![Unchecked box](unchecked.svg)|
+|Gri*an*stone|Grindstone|Grian|![Box only checked on the left](texture.svg)|
+|Mumbo *Jungle* **—**|Jungle **—**|Mumbo|![Unchecked box](unchecked.svg)
 
 ## Items
-|Name|Vanilla name|Images to apply|Done|
-|----|------------|---------------|----|
-|Re*n*stone **—**|Redstone **—**|Ren|<img src='unchecked.svg' alt='Unchecked box'>|
-|*Keral*is Lazuli|Lapis Lazuli|Keralis|<img src='unchecked.svg' alt='Unchecked box'>|
-|**—** *Joe Tills*|**—** Hoe|Joe Hills|<img src='unchecked.svg' alt='Unchecked box'>|
-|Bread*aph*|Bread|Zedaph|<img src='texture.svg' alt='Left-checked box'>|
-|*Zedairy*|Milk|Zedaph|<img src='texture.svg' alt='Left-checked box'>|
-|Egg*zuma*|Egg|X|<img src='texture.svg' alt='Left-checked box'>|
-|**—** Tinfoil*shovel*|**—** Shovel|TFC|<img src='unchecked.svg' alt='Unchecked box'>|
-|*Mum*bone|Bone|Mumbo|<img src='unchecked.svg' alt='Unchecked box'>|
-|Bamboo*Jumbo*|Bamboo|Mumbo|<img src='texture.svg' alt='Left-checked box'>|
-|*Iskallium* **—**|Slime **—**|Iskall|<img src='texture.svg' alt='Left-checked box'>|
-|Mel*umbo*|Melon|Mumbo|<img src='texture.svg' alt='Left-checked box'>|
-|*Grain*|Wheat|Grian|<img src='texture.svg' alt='Left-checked box'>|
+|Name|Vanilla name|Images to apply|Status|
+|----|------------|---------------|------|
+|Re*n*stone **—**|Redstone **—**|Ren|![Unchecked box](unchecked.svg)|
+|*Keral*is Lazuli|Lapis Lazuli|Keralis|![Unchecked box](unchecked.svg)|
+|**—** *Joe Tills*|**—** Hoe|Joe Hills|![Unchecked box](unchecked.svg)|
+|Bread*aph*|Bread|Zedaph|![Box only checked on the left](texture.svg)|
+|*Zedairy*|Milk|Zedaph|![Box only checked on the left](texture.svg)|
+|Egg*zuma*|Egg|X|![Box only checked on the left](texture.svg)|
+|**—** Tinfoil*shovel*|**—** Shovel|TFC|![Unchecked box](unchecked.svg)|
+|*Mum*bone|Bone|Mumbo|![Unchecked box](unchecked.svg)|
+|Bamboo*Jumbo*|Bamboo|Mumbo|![Box only checked on the left](texture.svg)|
+|*Iskallium* **—**|Slime **—**|Iskall|![Box only checked on the left](texture.svg)|
+|Mel*umbo*|Melon|Mumbo|![Box only checked on the left](texture.svg)|
+|*Grain*|Wheat|Grian|![Box only checked on the left](texture.svg)|
 
 ## Entities
-|Name|Vanilla name|Image to apply|Done|
-|----|------------|--------------|----|
-|Bee*DoubleO*|Bee|Bdubs|<img src='unchecked.svg' alt='Unchecked box'>|
-|*Iskal*leton|Skeleton|Iskall|<img src='unchecked.svg' alt='Unchecked box'>|
-|Zombie*Cleo*|Zombie|Cleo|<img src='unchecked.svg' alt='Unchecked box'>|
+|Name|Vanilla name|Image to apply|Status|
+|----|------------|--------------|------|
+|Bee*DoubleO*|Bee|Bdubs|![Unchecked box](unchecked.svg)|
+|*Iskal*leton|Skeleton|Iskall|![Unchecked box](unchecked.svg)|
+|Zombie*Cleo*|Zombie|Cleo|![Unchecked box](unchecked.svg)|
 
 ## Misc (enchants, professions...)
-|Name|Vanilla name|Image to apply|Done|
-|----|------------|--------------|----|
-|Bane of *Architechs*|Bane of Arthropods|Architech Logo|<img src='unchecked.svg' alt='Unchecked box'>|
-|Libra*g*rian|Librarian|Grian|<img src='unchecked.svg' alt='Unchecked box'>|
-|Cle*o*ric|Cleric|Cleo|<img src='unchecked.svg' alt='Unchecked box'>|
-|*ExB*erience / X*B*|Experience / XP|XB|<img src='unchecked.svg' alt='Unchecked box'>
+|Name|Vanilla name|Image to apply|Status|
+|----|------------|--------------|------|
+|Bane of *Architechs*|Bane of Arthropods|Architech Logo|![Unchecked box](unchecked.svg)|
+|Libra*g*rian|Librarian|Grian|![Unchecked box](unchecked.svg)|
+|Cle*o*ric|Cleric|Cleo|![Unchecked box](unchecked.svg)|
+|*ExB*erience / X*B*|Experience / XP|XB|![Unchecked box](unchecked.svg)
 
 # ***DEBATE***
 |Name|Vanilla name|Image to apply|Decided on A|Decided on B|
 |----|------------|--------------|------------|------------|
-|**—** Pri*xisu*marine/Prismari*ffs* **—**|**—** Prismarine **—**|X/R|<img src='unchecked.svg' alt='Unchecked box'>|<img src='unchecked.svg' alt='Unchecked box'>|
-|*Tang*obsidian/*Rendo*bsidian|Obsidian|Tango/Ren|<img src='unchecked.svg' alt='Unchecked box'>|<img src='unchecked.svg' alt='Unchecked box'>|
+|**—** Pri*xisu*marine/Prismari*ffs* **—**|**—** Prismarine **—**|X/R|![Unchecked box](unchecked.svg)|![Unchecked box](unchecked.svg)|
+|*Tang*obsidian/*Rendo*bsidian|Obsidian|Tango/Ren|![Unchecked box](unchecked.svg)|![Unchecked box](unchecked.svg)|
