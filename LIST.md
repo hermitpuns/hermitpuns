@@ -7,6 +7,7 @@
 |*Do*ctus|Cactus|Doc|
 |*Doc*orite|Diorite|Doc|
 |*Grian*ite|Granite|Grian|
+|*Grain* Bale|Hay Bale|Grian|
 |*Gria*nchanting Table|Enchanting Table|Grian|
 |Ac*scar*cia **—**|Acacia **—**|Scar|
 |T*ango*NT|TNT|Tango|
