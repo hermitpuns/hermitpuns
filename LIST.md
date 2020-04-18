@@ -1,14 +1,17 @@
 # HermitPuns
 
 ## Guide
+
 |Symbol|Meaning|
 |------|-------|
 |![Unchecked box](unchecked.svg)|Not done|
 |![Box only checked on the left](texture.svg)|Texture done, language missing|
 |![Box only checked on the right](language.svg)|Language done, texture missing|
 |![Checked box](checked.svg)|Completely done|
+|![Checked box with plus](tested.svg)|Done and tested in-game|
 
 ## Blocks
+
 |Name|Vanilla name|HC Thing|Status|
 |----|------------|--------|------|
 |*Do*ctus|Cactus|Doc|![Box only checked on the left](texture.svg)|
@@ -27,6 +30,7 @@
 |Mumbo *Jungle* **—**|Jungle **—**|Mumbo|![Unchecked box](unchecked.svg)
 
 ## Items
+
 |Name|Vanilla name|Images to apply|Status|
 |----|------------|---------------|------|
 |Re*n*stone **—**|Redstone **—**|Ren|![Unchecked box](unchecked.svg)|
@@ -43,6 +47,7 @@
 |*Grain*|Wheat|Grian|![Box only checked on the left](texture.svg)|
 
 ## Entities
+
 |Name|Vanilla name|HC Thing|Status|
 |----|------------|--------|------|
 |Bee*DoubleO*|Bee|Bdubs|![Unchecked box](unchecked.svg)|
@@ -50,14 +55,16 @@
 |Zombie*Cleo*|Zombie|Cleo|![Unchecked box](unchecked.svg)|
 
 ## Misc (enchants, professions...)
+
 |Name|Vanilla name|HC Thing|Status|
 |----|------------|--------|------|
-|Bane of *Architechs*|Bane of Arthropods|Architech Logo|![Unchecked box](unchecked.svg)|
+|Bane of *Architechs*|Bane of Arthropods|Sahara Logo|![Box only checked on the left](texture.svg)|
 |Libra*g*rian|Librarian|Grian|![Unchecked box](unchecked.svg)|
 |Cle*o*ric|Cleric|Cleo|![Unchecked box](unchecked.svg)|
-|*ExB*erience / X*B*|Experience / XP|XB|![Unchecked box](unchecked.svg)
+|*ExB*erience / X*B*|Experience / XP|XB|![Box only checked on the left](texture.svg)|
 
-# ***DEBATE***
+## ***DEBATE***
+
 |Name|Vanilla name|HC Thing|Decided on A|Decided on B|
 |----|------------|--------|------------|------------|
 |**—** Pri*xisu*marine/Prismari*ffs* **—**|**—** Prismarine **—**|X/R|![Unchecked box](unchecked.svg)|![Unchecked box](unchecked.svg)|
